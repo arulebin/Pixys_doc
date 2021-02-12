@@ -1,5 +1,16 @@
 [CENTER][IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/pixys_banner.png[/IMG]
 
+[B]ROM Version:[/B] 4.0.4
+
+
+
+[B]Device: [/B] Rosy
+
+[B]Maintainer:[/B] Ebin
+
+[B]Build Status:[/B]  Unofficial
+
+
 [CODE]#include <std_disclaimer.h>
 /*
  * Your warranty is... still valid?
@@ -36,10 +47,6 @@ We aim to deliver an experience with original ideas and features along with the 
 [SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE]
 [B]Telegram[/B]: [URL]https://telegram.me/pixysos_chat[/URL]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/features.png[/IMG]
-
-[B][SIZE="3"]Coming soon :)[/SIZE][/B]
-
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/source.png[/IMG]
 [B]Pixys:[/B] [URL="https://github.com/PixysOS"]PixysOS[/URL]
 [B]Pixys Device Sources:[/B] [URL="https://github.com/PixysOS-Devices"]PixysOSDevices[/URL]
@@ -62,9 +69,7 @@ The root solution should be flashed together with every update (= ROM Update)[/B
 Magisk versions higher than 14.0 doesn't require flash on every dirty flash depending on the device, some devices need you to flash it every time, unless your maintainer says otherwise it should be fine
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/download.png[/IMG]
-[B]ROM:[/B] Share your compile rom download link here
-[B]GApps:[/B] 
-[URL="https://opengapps.org"]OpenGApps[/URL]
+[B][URL="https://mega.nz/file/8JlwyJwD#aSttXg0sPWQDOXd-0FR8LvEEGtnGT_7uBprcq39V4T8"]Mega[/URL][/B]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/known_issues.png[/IMG]
 
@@ -88,17 +93,16 @@ You tell... :P
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 
 [B][U]Contributors:[/U][/B]
-(mention all the devs who have contributed to your device tree, kernel, vendor, etc,
-only mention the main ones though, probably the top four or so, otherwise this list will be a mile long unless if you're a huge kanger xD)
+Thanks to Pulkit and pratyakshm
 
 [B]Kernel source:[/B]
-[B]Put the Github link to your kernel HERE (mandatory), not posting the kernel source violates the GPL, and also violates the rules on XDA ...[/B]
+[B]https://github.com/arulebin/kernel_xiaomi_rosy[/B]
 
-[B]ROM OS Version:[/B] 11.x.x R
-[B]ROM Kernel:[/B] Linux x.x.y (EG: 4.4.y)
+[B]ROM OS Version:[/B] 11.0 R
+[B]ROM Kernel:[/B] 3.18.140
 [B]Based On:[/B] AOSP
 
 [B][U]Version Information[/U][/B]
-[B]Status:[/B] Beta/Stable
-[B]Current Version:[/B] v4.x
-[B]Release Date:[/B] mm-dd-yyyy
+[B]Status:[/B] Stable
+[B]Current Version:[/B] v4.0.4
+[B]Release Date:[/B] 12-02-2021
